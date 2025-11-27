@@ -1,0 +1,24 @@
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.csproj.AssemblyReference.cache
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft_Offline.Form1.resources
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft_Offline.Form2.resources
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft_Offline.Properties.Resources.resources
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.csproj.GenerateResource.cache
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.csproj.CoreCompileInputs.cache
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\bin\Debug\Minecraft Offline.exe.config
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\bin\Debug\Minecraft Offline.exe
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\bin\Debug\Minecraft Offline.pdb
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.exe
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.pdb
+C:\Users\Emir\source\repos\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.exe.config
+D:\Minecraft Offline\Minecraft Offline\bin\Debug\Minecraft Offline.exe.config
+D:\Minecraft Offline\Minecraft Offline\bin\Debug\Minecraft Offline.exe
+D:\Minecraft Offline\Minecraft Offline\bin\Debug\Minecraft Offline.pdb
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.csproj.AssemblyReference.cache
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.exe.config
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft_Offline.Form1.resources
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft_Offline.Form2.resources
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft_Offline.Properties.Resources.resources
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.csproj.GenerateResource.cache
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.csproj.CoreCompileInputs.cache
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.exe
+D:\Minecraft Offline\Minecraft Offline\obj\Debug\Minecraft Offline.pdb
