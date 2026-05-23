@@ -29,6 +29,8 @@ namespace Minecraft_Offline
             else if (checkBox4.Checked) { url = "https://github.com/Clicker-games-Studio/Minecraft-Offline/releases/download/MC1.8.9/Mc1.8.9.zip"; version = "1.8.9"; }
             else if (checkBox5.Checked) { url = "https://github.com/Clicker-games-Studio/Minecraft-Offline/releases/download/MC1.12/Mc1.12.zip"; version = "1.12"; }
             else if (checkBox6.Checked) { url = "https://github.com/Clicker-games-Studio/Minecraft-Offline/releases/download/1.17.1/MC1.17.1BETA1.zip"; version = "1.17.1"; } // ✅ New version
+            else if (checkBox7.Checked) { url = "https://github.com/Clicker-games-Studio/Minecraft-Offline/releases/download/MC1.19.4/mc1.19.4.zip"; version = "1.19.4"; }
+            else if (checkBox8.Checked) { url = "https://github.com/Clicker-games-Studio/Minecraft-Offline/releases/download/MC1.20.2/MC1.20.2.zip"; version = "1.20.2"; }
             else
             {
                 MessageBox.Show("Please select a version before downloading.");
@@ -109,7 +111,9 @@ namespace Minecraft_Offline
             else if (checkBox3.Checked) version = "1.8.8";
             else if (checkBox4.Checked) version = "1.8.9";
             else if (checkBox5.Checked) version = "1.12";
-            else if (checkBox6.Checked) version = "1.17.1"; // ✅ New version
+            else if (checkBox6.Checked) version = "1.17.1";
+            else if (checkBox7.Checked) version = "1.19.4";
+            else if (checkBox8.Checked) version = "1.20.2"; // ✅ Latest version
             else
             {
                 MessageBox.Show("Please select a version to start.");
